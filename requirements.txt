@@ -1,0 +1,8 @@
+numpy
+matplotlib
+norse
+torch
+aestream
+tonic
+tqdm
+torchvision
